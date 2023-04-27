@@ -5,3 +5,10 @@ C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\ConvertidorDivisas\Act13Convert
 C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\ConvertidorDivisas\Act13ConvertidorWCF\bin\Debug\Act13ConvertidorWCF.pdb
 C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\ConvertidorDivisas\Act13ConvertidorWCF\obj\Debug\Act13ConvertidorWCF.dll
 C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\ConvertidorDivisas\Act13ConvertidorWCF\obj\Debug\Act13ConvertidorWCF.pdb
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\Act13ConvertidorWCF-SOLUCION\Act13ConvertidorWCF\bin\Debug\Act13ConvertidorWCF.dll.config
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\Act13ConvertidorWCF-SOLUCION\Act13ConvertidorWCF\bin\Debug\Act13ConvertidorWCF.dll
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\Act13ConvertidorWCF-SOLUCION\Act13ConvertidorWCF\bin\Debug\Act13ConvertidorWCF.pdb
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\Act13ConvertidorWCF-SOLUCION\Act13ConvertidorWCF\obj\Debug\Act13ConvertidorWCF.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\Act13ConvertidorWCF-SOLUCION\Act13ConvertidorWCF\obj\Debug\Act13ConvertidorWCF.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\Act13ConvertidorWCF-SOLUCION\Act13ConvertidorWCF\obj\Debug\Act13ConvertidorWCF.dll
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\Act13ConvertidorWCF-SOLUCION\Act13ConvertidorWCF\obj\Debug\Act13ConvertidorWCF.pdb

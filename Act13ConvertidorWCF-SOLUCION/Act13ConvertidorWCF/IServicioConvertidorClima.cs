@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 namespace Act13ConvertidorWCF
 {
     [ServiceContract]
-    internal interface IServicioConvertidorClima
+    public interface IServicioConvertidorClima
     {
         [OperationContract]
-        ConvertidorClima convertidorClimaFahrenheit(float centigrados);
+        ConvertidorClima convertidorClimaFahrenheit(double centigrados);
         [OperationContract]
-        ConvertidorClima convertidorClimaCelntigrados(float fahrenheit);
+        ConvertidorClima convertidorClimaCentigrados(double fahrenheit);
     }
 }

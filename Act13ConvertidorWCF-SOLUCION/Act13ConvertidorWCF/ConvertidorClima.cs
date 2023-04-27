@@ -11,8 +11,8 @@ namespace Act13ConvertidorWCF
     public class ConvertidorClima
     {
         [DataMember]
-        public float centigrados { get; set; }
+        public double centigrados { get; set; }
         [DataMember]
-        public float fahrenheit { get; set; }
+        public double fahrenheit { get; set; }
     }
 }
