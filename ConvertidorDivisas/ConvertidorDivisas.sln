@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Act13ConvertidorWCF", "Act13ConvertidorWCF\Act13ConvertidorWCF.csproj", "{A5D35CE8-197C-464F-B1FA-3E08018C65C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5D35CE8-197C-464F-B1FA-3E08018C65C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5D35CE8-197C-464F-B1FA-3E08018C65C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5D35CE8-197C-464F-B1FA-3E08018C65C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5D35CE8-197C-464F-B1FA-3E08018C65C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {403457CC-D0D8-4278-9D60-7F3EA635E4F1}
+	EndGlobalSection
+EndGlobal
