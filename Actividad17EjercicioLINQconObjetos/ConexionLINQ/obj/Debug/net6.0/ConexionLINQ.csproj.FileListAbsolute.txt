@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\bin\Debug\net6.0\ConexionLINQ.exe
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\bin\Debug\net6.0\ConexionLINQ.deps.json
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\bin\Debug\net6.0\ConexionLINQ.runtimeconfig.json
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\bin\Debug\net6.0\ConexionLINQ.dll
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\bin\Debug\net6.0\ConexionLINQ.pdb
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.dll
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\refint\ConexionLINQ.dll
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.pdb
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ConexionLINQ.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Tecnologias\IS_TCS_FEB2023\LINSQTest\ConexionLINQ\obj\Debug\net6.0\ref\ConexionLINQ.dll
