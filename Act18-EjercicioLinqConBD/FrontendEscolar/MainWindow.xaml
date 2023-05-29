@@ -1,0 +1,36 @@
+﻿<Window x:Class="FrontendEscolar.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FrontendEscolar"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800"
+        WindowStyle="None" WindowState="Normal"
+        WindowStartupLocation="CenterScreen"
+        >
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="437" Margin="-12,0,0,0" VerticalAlignment="Top" Width="584" Source="/profe.jpg"/>
+        <Label Content="Login" HorizontalAlignment="Left" Margin="616,97,0,0" VerticalAlignment="Top" FontSize="36" FontWeight="Bold"/>
+        <Label x:Name="LB_Usuario" Content="Usuario:" HorizontalAlignment="Left" Margin="571,160,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <Label x:Name="LB_Contraseña" Content="Contraseña:" HorizontalAlignment="Left" Margin="571,244,0,0" VerticalAlignment="Top" FontSize="18"/>
+        <TextBox x:Name="TB_Usuario" HorizontalAlignment="Left" Margin="571,191,0,0" TextWrapping="Wrap" Text="Usuario" VerticalAlignment="Top" Width="189" FontSize="16" Foreground="Gray" GotFocus="TL_Usuario_GotFocus" LostFocus="TL_Usuario_LostFocus" />
+        <PasswordBox x:Name="PW_password" HorizontalAlignment="Left" Margin="571,278,0,0" VerticalAlignment="Top" Width="189" Password="Contraseña" GotFocus="pwdBox_GotFocus" LostFocus="pwdBox_LostFocus" />
+        <Button Content="INICIAR" HorizontalAlignment="Left" Height="26" Margin="608,323,0,0" VerticalAlignment="Top" Width="113" FontSize="14" Background="#FF495561" FontWeight="Bold" Click="Button_Click" Foreground="White"/>
+        <Image x:Name="btn_Cerrar" HorizontalAlignment="Left" Height="21" Margin="743,10,0,0" VerticalAlignment="Top" Width="23" Source="/borrar.png" MouseLeftButtonDown="ClickCerrar" MouseEnter="MostrarToolTip" MouseLeave="OcultarToolTip">
+            <Image.ToolTip>
+                <ToolTip>
+                    <TextBlock Text="Cerrar" />
+                </ToolTip>
+            </Image.ToolTip>
+        </Image>
+        <Image HorizontalAlignment="Left" Height="21" Margin="708,10,0,0" VerticalAlignment="Top" Width="19" Source="/menos.png" MouseLeftButtonDown="ClickMinimizar" MouseEnter="MostrarToolTip" 
+               MouseLeave="OcultarToolTip">
+            <Image.ToolTip>
+                <ToolTip>
+                    <TextBlock Text="Minimizar" />
+                </ToolTip>
+            </Image.ToolTip>
+        </Image>
+    </Grid>
+</Window>

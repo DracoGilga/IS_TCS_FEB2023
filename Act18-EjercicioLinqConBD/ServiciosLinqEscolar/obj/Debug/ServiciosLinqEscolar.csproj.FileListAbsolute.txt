@@ -1,0 +1,7 @@
+C:\Users\DELL\Desktop\ControlEscolarV2\ServiciosLinqEscolar\bin\ServiciosLinqEscolar.dll.config
+C:\Users\DELL\Desktop\ControlEscolarV2\ServiciosLinqEscolar\bin\ServiciosLinqEscolar.dll
+C:\Users\DELL\Desktop\ControlEscolarV2\ServiciosLinqEscolar\bin\ServiciosLinqEscolar.pdb
+C:\Users\DELL\Desktop\ControlEscolarV2\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\ControlEscolarV2\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\ControlEscolarV2\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.dll
+C:\Users\DELL\Desktop\ControlEscolarV2\ServiciosLinqEscolar\obj\Debug\ServiciosLinqEscolar.pdb

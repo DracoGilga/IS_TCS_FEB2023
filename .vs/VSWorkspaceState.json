@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Act13ConvertidorWCF-SOLUCION"
+    "\\Act13ConvertidorWCF-SOLUCION",
+    "\\Actividad17EjercicioLINQconObjetos",
+    "\\Actividad17EjercicioLINQconObjetos\\ConexionLINQ"
   ],
+  "SelectedNode": "\\Actividad17EjercicioLINQconObjetos\\ConexionLINQ\\ControlAlumno.cs",
   "PreviewInSolutionExplorer": false
 }

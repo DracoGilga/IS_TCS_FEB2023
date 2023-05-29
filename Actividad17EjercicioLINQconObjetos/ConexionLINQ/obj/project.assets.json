@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Tecnologias\\IS_TCS_FEB2023\\LINSQTest\\ConexionLINQ\\ConexionLINQ.csproj",
+      "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Tecnologias\\IS_TCS_FEB2023\\Actividad17EjercicioLINQconObjetos\\ConexionLINQ\\ConexionLINQ.csproj",
       "projectName": "ConexionLINQ",
-      "projectPath": "C:\\Users\\DELL\\Desktop\\Tecnologias\\IS_TCS_FEB2023\\LINSQTest\\ConexionLINQ\\ConexionLINQ.csproj",
+      "projectPath": "C:\\Users\\DELL\\Desktop\\Tecnologias\\IS_TCS_FEB2023\\Actividad17EjercicioLINQconObjetos\\ConexionLINQ\\ConexionLINQ.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\Desktop\\Tecnologias\\IS_TCS_FEB2023\\LINSQTest\\ConexionLINQ\\obj\\",
+      "outputPath": "C:\\Users\\DELL\\Desktop\\Tecnologias\\IS_TCS_FEB2023\\Actividad17EjercicioLINQconObjetos\\ConexionLINQ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
